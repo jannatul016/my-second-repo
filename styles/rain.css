@@ -4,3 +4,10 @@ ol{
 ul{
     color: darkgreen;
 }
+h1{
+    background-color: pink;
+}
+img{
+    width: 500px;
+    border: 2px solid rgb(162, 53, 53);
+}
